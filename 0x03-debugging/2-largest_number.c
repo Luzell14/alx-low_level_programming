@@ -5,7 +5,7 @@
  * @a: first integer
  * @b: second integer
  * @c: third integer
- * Return: Always 0
+ * Return: largest number
  */
 
 int main(void)
@@ -25,5 +25,5 @@ int main(void)
 	    largest = c;
 	}
 
-	return (0);
+	return (largest);
 }
