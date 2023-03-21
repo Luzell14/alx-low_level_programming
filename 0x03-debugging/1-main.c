@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* main - avoid an infinit loop at the output
+* main - add i++ to avoid an infinite loop
 * Return: 0
 */
 
