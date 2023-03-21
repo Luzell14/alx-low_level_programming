@@ -1,4 +1,4 @@
-#include <main.h>
+#include <stdio.h>
 
 /**
 * main - avoid an infinit loop at the output
