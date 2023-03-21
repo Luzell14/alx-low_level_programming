@@ -10,7 +10,7 @@ int main(voidi)
         int i;
 
         i = 98;
-        positive_or_negative("i\n");
+        positive_or_negative(i)("\n");
 
         return (0);
 }
